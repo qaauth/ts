@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6639" started-at="2019-10-05T13:42:50Z" finished-at="2019-10-05T13:42:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6639" started-at="2019-10-05T13:42:50Z" finished-at="2019-10-05T13:42:57Z">
+      <class name="tsmonsute.ocrchk">
+        <test-method status="PASS" signature="start()[pri:0, instance:tsmonsute.ocrchk@49d904ec]" name="start" duration-ms="6477" started-at="2019-10-05T19:12:50Z" finished-at="2019-10-05T19:12:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+      </class> <!-- tsmonsute.ocrchk -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
